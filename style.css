@@ -1,0 +1,25 @@
+h6{
+	color: gray;
+}
+h2{
+	color: orange; font: cursive;
+}
+div{
+	font: bold;
+}
+#C1{
+	color: blue;
+}
+#C2{
+	color: red;
+}
+#C3{
+	color: darkgoldenrod;
+}
+.image{
+	height: 400px; 
+	width: 300px;
+}
+#C4{
+  border-radius: 50%;
+}
